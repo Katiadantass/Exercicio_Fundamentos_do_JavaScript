@@ -11,4 +11,4 @@ Deverá retornar a multiplicação destes fatores.
 
 Copie o código da função que você escreveu na Plataforma da EBAC que nossos tutores vão avaliar e dar o feedback.
 
-![Modulo06_exercicio](https://github.com/user-attachments/assets/988abfbf-e718-455b-be67-b5e56bc37f15)aa
+![Modulo06_exercicio](https://github.com/user-attachments/assets/988abfbf-e718-455b-be67-b5e56bc37f15)
